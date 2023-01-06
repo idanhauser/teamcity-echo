@@ -1,0 +1,4 @@
+# Project exclude paths
+/teamcity-echo-agent/target/
+/teamcity-echo-common/target/
+/teamcity-echo-server/target/

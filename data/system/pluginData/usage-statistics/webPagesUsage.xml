@@ -1,0 +1,56 @@
+<root>
+  <page path="/admin/createObjectMenu.html">
+    <usage userId="1" timestamp="1673032926553" />
+  </page>
+  <page path="/admin/editProject.html">
+    <usage userId="1" timestamp="1673033999555" />
+  </page>
+  <page path="/login.html">
+    <usage userId="1" timestamp="1673032902827" />
+  </page>
+  <page path="/admin/createBuildType.html">
+    <usage userId="1" timestamp="1673032926781" />
+  </page>
+  <page path="/viewType.html">
+    <usage userId="1" timestamp="1673033199295" />
+  </page>
+  <page path="/admin/admin.html">
+    <usage userId="1" timestamp="1673034034813" />
+  </page>
+  <page path="/admin/createObjectFromUrl.html">
+    <usage userId="1" timestamp="1673032914966" />
+  </page>
+  <page path="/admin/editBuildRunners.html">
+    <usage userId="1" timestamp="1673034032920" />
+  </page>
+  <page path="/admin/createProject.html">
+    <usage userId="1" timestamp="1673032916434" />
+  </page>
+  <page path="/admin/editBuild.html">
+    <usage userId="1" timestamp="1673034009159" />
+  </page>
+  <page path="/admin/buildTypeHealthStatusItems.html">
+    <usage userId="1" timestamp="1673034033333" />
+  </page>
+  <page path="/admin/editBuildTypeVcsRoots.html">
+    <usage userId="1" timestamp="1673032937438" />
+  </page>
+  <page path="/admin/editVcsRoot.html">
+    <usage userId="1" timestamp="1673032933307" />
+  </page>
+  <page path="/admin/projectHealthStatusItems.html">
+    <usage userId="1" timestamp="1673034000129" />
+  </page>
+  <page path="/favorite/projects">
+    <usage userId="1" timestamp="1673033195048" />
+  </page>
+  <page path="/404.html">
+    <usage userId="1" timestamp="1673032942235" />
+  </page>
+  <page path="/admin/editRunType.html">
+    <usage userId="1" timestamp="1673034031459" />
+  </page>
+  <page path="/buildTypeHealthStatusItems.html">
+    <usage userId="1" timestamp="1673033199310" />
+  </page>
+</root>
